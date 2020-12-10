@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/http//mapsalgado92.github.io/facebrawl/static/css/main.68a64410.chunk.css",
-    "main.js": "/http//mapsalgado92.github.io/facebrawl/static/js/main.23b9f656.chunk.js",
-    "main.js.map": "/http//mapsalgado92.github.io/facebrawl/static/js/main.23b9f656.chunk.js.map",
-    "runtime-main.js": "/http//mapsalgado92.github.io/facebrawl/static/js/runtime-main.56115356.js",
-    "runtime-main.js.map": "/http//mapsalgado92.github.io/facebrawl/static/js/runtime-main.56115356.js.map",
-    "static/js/2.6f19aa90.chunk.js": "/http//mapsalgado92.github.io/facebrawl/static/js/2.6f19aa90.chunk.js",
-    "static/js/2.6f19aa90.chunk.js.map": "/http//mapsalgado92.github.io/facebrawl/static/js/2.6f19aa90.chunk.js.map",
-    "static/js/3.a6956fb1.chunk.js": "/http//mapsalgado92.github.io/facebrawl/static/js/3.a6956fb1.chunk.js",
-    "static/js/3.a6956fb1.chunk.js.map": "/http//mapsalgado92.github.io/facebrawl/static/js/3.a6956fb1.chunk.js.map",
-    "index.html": "/http//mapsalgado92.github.io/facebrawl/index.html",
-    "static/css/main.68a64410.chunk.css.map": "/http//mapsalgado92.github.io/facebrawl/static/css/main.68a64410.chunk.css.map",
-    "static/js/2.6f19aa90.chunk.js.LICENSE.txt": "/http//mapsalgado92.github.io/facebrawl/static/js/2.6f19aa90.chunk.js.LICENSE.txt"
+    "main.css": "/facebrawl/static/css/main.68a64410.chunk.css",
+    "main.js": "/facebrawl/static/js/main.23b9f656.chunk.js",
+    "main.js.map": "/facebrawl/static/js/main.23b9f656.chunk.js.map",
+    "runtime-main.js": "/facebrawl/static/js/runtime-main.45a4d4e2.js",
+    "runtime-main.js.map": "/facebrawl/static/js/runtime-main.45a4d4e2.js.map",
+    "static/js/2.6f19aa90.chunk.js": "/facebrawl/static/js/2.6f19aa90.chunk.js",
+    "static/js/2.6f19aa90.chunk.js.map": "/facebrawl/static/js/2.6f19aa90.chunk.js.map",
+    "static/js/3.a6956fb1.chunk.js": "/facebrawl/static/js/3.a6956fb1.chunk.js",
+    "static/js/3.a6956fb1.chunk.js.map": "/facebrawl/static/js/3.a6956fb1.chunk.js.map",
+    "index.html": "/facebrawl/index.html",
+    "static/css/main.68a64410.chunk.css.map": "/facebrawl/static/css/main.68a64410.chunk.css.map",
+    "static/js/2.6f19aa90.chunk.js.LICENSE.txt": "/facebrawl/static/js/2.6f19aa90.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.56115356.js",
+    "static/js/runtime-main.45a4d4e2.js",
     "static/js/2.6f19aa90.chunk.js",
     "static/css/main.68a64410.chunk.css",
     "static/js/main.23b9f656.chunk.js"
