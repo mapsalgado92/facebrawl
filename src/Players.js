@@ -43,6 +43,7 @@ export const pDavid = {
         vit: 20
     }
 }
+
 /*
 //GONÇALO SOUSA
 export const pGoncalo = {
