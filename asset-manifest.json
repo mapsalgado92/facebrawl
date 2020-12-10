@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/facebrawl/static/css/main.422238ae.chunk.css",
+    "main.css": "/facebrawl/static/css/main.8cb6c40f.chunk.css",
     "main.js": "/facebrawl/static/js/main.23b9f656.chunk.js",
     "main.js.map": "/facebrawl/static/js/main.23b9f656.chunk.js.map",
     "runtime-main.js": "/facebrawl/static/js/runtime-main.45a4d4e2.js",
@@ -10,13 +10,13 @@
     "static/js/3.a6956fb1.chunk.js": "/facebrawl/static/js/3.a6956fb1.chunk.js",
     "static/js/3.a6956fb1.chunk.js.map": "/facebrawl/static/js/3.a6956fb1.chunk.js.map",
     "index.html": "/facebrawl/index.html",
-    "static/css/main.422238ae.chunk.css.map": "/facebrawl/static/css/main.422238ae.chunk.css.map",
+    "static/css/main.8cb6c40f.chunk.css.map": "/facebrawl/static/css/main.8cb6c40f.chunk.css.map",
     "static/js/2.6f19aa90.chunk.js.LICENSE.txt": "/facebrawl/static/js/2.6f19aa90.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.45a4d4e2.js",
     "static/js/2.6f19aa90.chunk.js",
-    "static/css/main.422238ae.chunk.css",
+    "static/css/main.8cb6c40f.chunk.css",
     "static/js/main.23b9f656.chunk.js"
   ]
 }
