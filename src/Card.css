@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 0;
+}
+
+.card-wrapper {
+    margin: 20px;
+    border-radius: 18px;
+    box-shadow: 2px 2px 2px 2px black;
+    background-color: black;
+    display: grid;
+    width: fit-content;
+    grid-template-columns: 300px;
+    grid-template-rows: 200px auto auto auto 100px ;
+    overflow: hidden;
+    transition: 0.5s;
+}
+
+.card-wrapper:hover {
+    transform: scale(1.05);
+    box-shadow: 2px 2px 10px 2px black;
+}
+
+.image-wrapper {
+    background-size: 105%;
+    background-position: center;
+    background-color: black;
+}
+
+.name {
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    padding: 5px;
+}
+
+.sp-attack {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(54, 53, 53);
+    padding: 2px;
+}
+
+.equipment {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(107, 107, 107);
+    padding: 2px;
+}
+
+span {
+    margin: 0px 10px;
+}
+
+.stats-wrapper {
+    color: black;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background: url("https://i.postimg.cc/MZNyGykC/card-background.jpg");
+    background-position: center;
+    background-size: 100%;
+    border-top: 2px inset black;
+    border-radius: 0 0px 18px 18px;
+}
+
+.stat {
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    font-size: 20px;
+}
+
+.stat span{
+    margin: 0 0 0 20px;
+}
+

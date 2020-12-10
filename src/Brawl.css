@@ -1,0 +1,56 @@
+.brawl-wrapper {
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background:url("http://www.allwhitebackground.com/images/5/Dark-Background-Free-Picture.jpg");
+    background-size: 100%;
+    color: white;
+    align-items: center;
+    padding: 20px;
+}
+
+.card-display {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.card-bar-container {
+    display: flex;
+    width: fit-content;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button-container {
+    display: flex;
+    width: fit-content;
+    flex-direction: column;
+    align-items: center;
+}
+
+.strike-button{
+    width: 200px;
+    height: 60px;
+    font-size: 40px;
+    margin: 0 0 10px 0;
+}
+
+textarea {
+    width: 100%;
+    height: 160px;
+    color: white;
+    background-color: rgba(37, 37, 37, 0.644);
+    padding:5px;
+    border-radius: 10px;
+    font-size: 14px;
+    margin: 5px;
+}
+
+h1 {
+    font-size: 45px;
+}
